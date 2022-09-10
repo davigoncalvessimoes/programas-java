@@ -1,0 +1,1 @@
+Programa feito para ser uma calculadora que realiza as quatro principais operações: adição, subtração, multiplicação e divisão.
