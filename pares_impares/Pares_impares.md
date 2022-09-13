@@ -1,0 +1,1 @@
+Programa que solicita do usuário que informe uma sequência de 10 números inteiros. Ao final, informa a quantidade de números pares e ímpares que foram digitados.
