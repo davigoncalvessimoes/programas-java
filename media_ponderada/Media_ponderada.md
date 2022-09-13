@@ -1,0 +1,1 @@
+Programa que recebe duas notas e calcula a média ponderada dessas baseada em seus pesos respectivos.
